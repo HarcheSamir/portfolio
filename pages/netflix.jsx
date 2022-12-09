@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import React from 'react';
-import netflixImg from '../public/assets/projects/Bookappcover.jpg';
+import netflixImg from '../public/assets/projects/bookappcover.jpg';
 import { RiRadioButtonFill } from 'react-icons/ri';
 import Link from 'next/link';
 
